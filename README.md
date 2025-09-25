@@ -1,2 +1,3 @@
-# C Projects
-This repository contains a collection of C programming projects that I created to practice and strengthen my understanding of the C language. Each project focuses on applying core concepts such as variables, data types, functions, arrays, pointers, structures, file handling, and more.
+# ATM-Banking
+This is a simple console-based Banking ATM System written in C.
+The project simulates the basic features of an Automated Teller Machine (ATM), allowing users to manage their bank account through a text-based menu.
